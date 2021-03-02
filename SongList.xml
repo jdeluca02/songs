@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<link rel="stylesheet" href="songs.css">
+    
+<SongList>
+    <song>
+        <title> Venitia </title>
+        <artist> Ll Uzi Vert </artist>
+        <genre> Rap </genre>
+        <year> 2020 </year>
+    </song>
+    <song>
+        <title> Won't Let Go </title>
+        <artist> Juice Wrld </artist>
+        <genre> Rap </genre>
+        <year> 2019 </year>
+    </song>
+    <song>
+        <title> Red Lights </title>
+        <artist> Tiesto </artist>
+        <genre> EDM </genre>
+        <year> 2014 </year>
+    </song>
+    <song>
+        <title> Heart in Pieces </title>
+        <artist> Lil Uzi Vert </artist>
+        <genre> Rap </genre>
+        <year> 2020 </year>
+    </song>
+    <song>
+        <title> Saint-Tropez </title>
+        <artist> Post Malone </artist>
+        <genre> Pop </genre>
+        <year> 2019 </year>
+    </song>
+    <song>
+        <title> Shot in the Dark </title>
+        <artist> AC-DC </artist>
+        <genre> Rock </genre>
+        <year> 1986 </year>
+    </song>
+    <song>
+        <title> Don't Stop Believin' </title>
+        <artist> Journey </artist>
+        <genre> Rock </genre>
+        <year> 1981 </year>
+    </song>
+    <song>
+        <title> 'Till I Collapse </title>
+        <artist> Eminem </artist>
+        <genre> Rap </genre>
+        <year> 2002 </year>
+    </song>
+    <song>
+        <title> Next Up Forever </title>
+        <artist> AJR </artist>
+        <genre> Indie Pop </genre>
+        <year> 2019 </year>
+    </song>
+    <song>
+        <title> Need It </title>
+        <artist> Migos </artist>
+        <genre> Rap </genre>
+        <year> 2020 </year>
+    </song>
+
+
+
+</SongList>
